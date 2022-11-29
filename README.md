@@ -15,4 +15,4 @@
 - localhost에서 연결을 거부했습니다. (연결 확인, 프록시 및 방화벽 확인)
 
 
-3. Eclipse 내 git 활용하여 Push시 다른계정으로 commit 됨 (로그아웃 후 재로그인해도 동일함 / )
+3. Eclipse 내 git 활용하여 Push시 다른계정으로 commit 됨 (로그아웃 후 재로그인해도 동일함 /확인중)
