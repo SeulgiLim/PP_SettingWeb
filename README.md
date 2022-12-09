@@ -54,4 +54,10 @@ Spring, Mariadb, MyBatis 연동 후 localhostg확인시 localhost에서 연결 �
 ![image](https://user-images.githubusercontent.com/71672106/206585778-4c84d958-4b16-4787-a671-8b6b5fe79532.png)
 
 
-2. requestlog, is_success가 무엇이고, Request Parameters에 반영되는게 맞는건지 잘 모르겠습니다. (확인중)
+2. requestlog, is_success가 무엇이고, Request Parameters에 반영되는게 맞는건지 잘 모르겠습니다. (확인중)  
+
+
+
+## [3차 과제 - 스프링 부트 환경 구축 / 20년도 총 로그인수 조회 API 구현 / SW 활용하여 현황 API를 위한 SQL 작성 하면서 어려웠던 점]
+
+1.
