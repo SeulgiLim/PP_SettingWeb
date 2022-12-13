@@ -63,5 +63,12 @@ Spring, Mariadb, MyBatis 연동 후 localhostg확인시 localhost에서 연결 �
 1. 프로젝트 시작할 때 Run as에 Spring Boot App 항목 없음 (확인중)
 → Configure에 Convert to Maven Project 하려고 보니 이 항목도 없음. (이클립스 마켓 확인시 Maven Intergration for Eclipse WTP 설치 완료된 상태)  
 
+[참고사항]
+* eclipse : 2021-03
+* jdk : 1.8
+* jre : 1.8
+* Spring boot : 2.2.2
+* mybatis : 2.1.3   
+
 2. Run as- Java Application으로 실행 후 http://localhost:8031/test 확인하면 설정 테스트 안나옴  
   
