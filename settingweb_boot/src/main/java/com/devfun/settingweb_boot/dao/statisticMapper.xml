@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+    
+<mapper namespace="com.devfun.settingweb_boot.dao.StatisticMapper">
+ 
+    <select id="selectYearLogin" parameterType="string" resultType="hashMap">
+        select count(*) as totCnt
+        from statistc.requestinfo ri
+        where left(ri.createDate, 2) = #{year};
+    </select>
+    
+</mapper>
+
+<!-- StatisticMapper 안에 쿼리를 정의함 
+대표 restController로 해당년도의 로그인 수를 알기 위한 쿼리를 작성함 -->
