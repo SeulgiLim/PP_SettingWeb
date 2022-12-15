@@ -71,4 +71,6 @@ Spring, Mariadb, MyBatis 연동 후 localhostg확인시 localhost에서 연결 �
 * mybatis : 2.1.3   
 
 2. Run as- Java Application으로 실행 후 http://localhost:8031/test 확인하면 설정 테스트 안나옴  
+
+위의 2개 문제 환경설정 확인하기.  
   
